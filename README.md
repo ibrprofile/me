@@ -1,7 +1,7 @@
 # Азамат Ибрагимов | Fullstack-разработчик и веб-дизайнер
 
 <p align="center">
-  <img src="banner.png" alt="Азамат Ибрагимов" width="100%" />
+  <img src="banner.jpg" alt="Азамат Ибрагимов" width="100%" />
 </p>
 
 ---
