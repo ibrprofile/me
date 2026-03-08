@@ -78,8 +78,6 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </p>
@@ -97,18 +95,6 @@
 
 ---
 
-## 📊 Статистика опыта
-
-| Направление | Опыт | Проектов |
-|---|---|---|
-| **Fullstack разработка** | 7+ лет | 45+ |
-| **Фронтенд (React/Vue)** | 6+ лет | 30+ |
-| **Бэкенд (Node/PHP/Python)** | 6+ лет | 35+ |
-| **Веб-дизайн & UI/UX** | 5+ лет | 25+ |
-| **Чат-боты и автоматизация** | 4+ лет | 20+ |
-| **Игровые проекты** | 3+ лет | 12+ |
-
----
 
 ## 🎨 Спектр услуг
 
@@ -293,10 +279,6 @@ API Интеграция<br/>
 </p>
 
 ---
-
-## 🎓 Философия работы
-
-> *"Я верю в создание не просто функционального кода, но **архитектурно грамотных решений**, которые масштабируются, выдерживают нагрузку и остаются поддерживаемыми годами."*
 
 **Мой подход:**
 - 🔍 Глубокое понимание требований до начала кодирования
